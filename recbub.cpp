@@ -22,7 +22,7 @@ void recbub(int a[],int size)
 }
 int main()
 {
-	int size;
+	int size;                                               //for input purposes
 	cout<<"enter size ";
 	cin>>size;
 	int a[10000];
